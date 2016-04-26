@@ -60,10 +60,10 @@ app.use(function(err, req, res, next) {
     });
 });
 //to test it
-app.get('/', function(request, response) {
+/*app.get('/', function(request, response) {
     //to test in browser
     response.status(200);
     response.send("Success");
-});
+});*/
 
 

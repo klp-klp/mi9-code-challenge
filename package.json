@@ -1,6 +1,6 @@
 {
   "name": "MI9-code-challenge",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "MI9 Coding challenge - WebServiceTest - By Lakshmi",
   "dependencies": {
     "ejs": "^2.4.1",
@@ -12,7 +12,7 @@
     "underscore": "^1.8.3"
   },
   "engines": {
-    "node": "0.12.7"
+    "node": "4.2.1"
   },
   "repository": {
     "type": "git",

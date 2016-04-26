@@ -1,2 +1,2 @@
-# mi9-coding-challenge
-Mi9 coding challenge by Lakshmi
+# mi9-code-challenge
+Mi9 code challenge by Lakshmi

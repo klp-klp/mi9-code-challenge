@@ -1,5 +1,5 @@
 {
-  "name": "MI9-WebService-Test",
+  "name": "MI9-code-challenge",
   "version": "0.1.1",
   "description": "MI9 Coding challenge - WebServiceTest - By Lakshmi",
   "dependencies": {
@@ -10,6 +10,9 @@
     "expect.js": "~0.3.1",
     "mocha": "~2.4.5",
     "underscore": "^1.8.3"
+  },
+  "engines": {
+    "node": "0.12.7"
   },
   "repository": {
     "type": "git",

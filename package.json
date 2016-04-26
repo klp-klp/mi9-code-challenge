@@ -1,6 +1,6 @@
 {
   "name": "MI9-WebService-Test",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "MI9 Coding challenge - WebServiceTest - By Lakshmi",
   "dependencies": {
     "ejs": "^2.4.1",
@@ -10,6 +10,10 @@
     "expect.js": "~0.3.1",
     "mocha": "~2.4.5",
     "underscore": "^1.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klp-klp/mi9-code-challenge.git"
   },
   "keywords": [
     "MI9",

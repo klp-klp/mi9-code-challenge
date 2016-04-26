@@ -2,6 +2,11 @@
   "name": "MI9-code-challenge",
   "version": "0.1.2",
   "description": "MI9 Coding challenge - WebServiceTest - By Lakshmi",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm install && node_modules\\.bin\\mocha tests\\"
+  },
   "dependencies": {
     "ejs": "^2.4.1",
     "express": "~4.13.4",
